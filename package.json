@@ -1,0 +1,32 @@
+{
+  "name": "crud-adapter",
+  "version": "1.0.0",
+  "description": "An unopinionated adapter to implement CRUD operations with any webserver and database combination.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikk221/crud-adapter.git"
+  },
+  "keywords": [
+    "adapter",
+    "unopinionated",
+    "fast",
+    "efficient",
+    "flexible",
+    "crud",
+    "create",
+    "read",
+    "update",
+    "delete",
+    "simple"
+  ],
+  "author": "kartikk221",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartikk221/crud-adapter/issues"
+  },
+  "homepage": "https://github.com/kartikk221/crud-adapter#readme"
+}
